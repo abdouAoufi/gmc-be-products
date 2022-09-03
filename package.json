@@ -1,0 +1,22 @@
+{
+  "name": "gmc-be-products",
+  "version": "1.0.0",
+  "description": "be for our app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdouAoufi/gmc-be-products.git"
+  },
+  "author": "Aoufi Abderahmane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdouAoufi/gmc-be-products/issues"
+  },
+  "homepage": "https://github.com/abdouAoufi/gmc-be-products#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
